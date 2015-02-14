@@ -295,14 +295,14 @@ a:focus,
     -webkit-transition:all 0.3s ease-out;
     transition:all 0.3s ease-out;
     margin-top: 5px;
-    margin-left: 4px; 
+    margin-left: 4px;
 }
 
 #telephone i{
     color: white;
     -webkit-transition:all 0.3s ease-out;
     transition:all 0.3s ease-out;
-    
+
 }
 
 #telephone {
@@ -441,11 +441,11 @@ float: right;
     letter-spacing:0.01em;
     text-transform:uppercase;
     background:transparent;
-    color:#fff; 
+    color:#fff;
 }
 
 #main-nav.scrolled .nav a{
-    color:inherit; 
+    color:inherit;
 }
 
 #main-nav li{
@@ -546,9 +546,9 @@ float: right;
 ------------------------*/
 
 .jumbotron {
-    background: 
-    url('../assets/background_logos.png') 250px 250px,     
-    url('../assets/background.png') repeat;                      
+    background:
+    url('../assets/background_logos.png') 250px 250px,
+    url('../assets/background.png') repeat;
     color:#fff;
     padding:0;
     margin-bottom:0;
@@ -706,11 +706,11 @@ float: right;
     text-decoration:none;
 }
 
-.flex-direction-nav a:hover {  
+.flex-direction-nav a:hover {
     background:#363B46;
 }
 
-.flex-direction-nav .flex-disabled {  
+.flex-direction-nav .flex-disabled {
     display:none;
 }
 
@@ -784,7 +784,7 @@ float: right;
 
 /*----------------------
 -----Featured Project----
-------------------------*/  
+------------------------*/
 .img-wrapper {
     position:relative;
     width:100%;
@@ -827,7 +827,7 @@ float: right;
 
 /*----------------------
 -----About Styles----
-------------------------*/  
+------------------------*/
 
 #about .section-header{
     margin-bottom:40px;
@@ -887,7 +887,7 @@ float: right;
 
 /*----------------------
 -----Portfolio Styles----
-------------------------*/ 	
+------------------------*/
 #filter-works ul {
     list-style:none;
     padding:0;
@@ -898,7 +898,7 @@ float: right;
     -moz-transform: scale(0.9);
     -ms-transform: scale(0.9);
     transform: scale(0.9);
-    
+
 }
 
 #filter-works ul li{
@@ -1060,8 +1060,8 @@ float: right;
       -ms-transition-duration: 0.7s;
        -o-transition-duration: 0.7s;
           transition-duration: 0.7s;
-          
-   transition-timing-function:ease-in-out;    
+
+   transition-timing-function:ease-in-out;
 }
 
 .masonry {
@@ -1161,7 +1161,7 @@ transition: all 0.2s ease-out;
 }
 
 .mar-20 {
-   padding: 50px; 
+   padding: 50px;
 }
 .modal-dialog h1{
 
@@ -1185,33 +1185,54 @@ padding-bottom: 40px;
     background-color: transparent;
 }
 /*BEGIN: Additional Codes by Den*/
-#video-container {
-    display: none;
-    position:relative;
-}
-/* Desktops and laptops ----------- */
-@media only screen and (min-width : 1224px) {
+/*Show Reel Modal Media Queries*/
+/*Resolution that has maximum of 320px*/
+@media screen and (max-width: 320px) {
     .video-wrapper {
-       margin: -6% 0;
+        margin: 0;
     }
 }
-
-/* Large screens ----------- */
-@media only screen and (min-width : 1824px) {
+/*Resolution that has maximum of 640px*/
+@media screen and (max-width: 640px) {
     .video-wrapper {
-      margin: 0;
+        margin: 0;
     }
+}
+/*Resolution that has maximum of 800px*/
+@media screen and (max-width: 800px) {
+    .video-wrapper {
+        margin: 0;
+    }
+}
+/*Resolution that has maximum of 1024px*/
+@media screen and (max-width: 1024px) {
+    .video-wrapper {
+        margin: 0;
+    }
+}
+/*Resolution that has maximum of 1028px*/
+@media screen and (max-width: 1028px) {
+    .video-wrapper {
+        margin: 0;
+    }
+}
+.video-wrapper {
+    width: 100%;
+    padding: 12%;
+}
+.video-wrapper iframe {
+    max-width: 100%;
 }
 .vertical-center {
-  min-height: 100%;  
-  min-height: 100vh; 
+  min-height: 100%;
+  min-height: 100vh;
 
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
-  display: flex; 
-  
+  display: flex;
+
     -webkit-box-align : center;
   -webkit-align-items : center;
        -moz-box-align : center;
@@ -1224,12 +1245,9 @@ padding-bottom: 40px;
   -webkit-justify-content : center;
           justify-content : center;
 }
-.video-wrapper {
-    width: 100%;
-    padding: 12%;
-}
-.video-wrapper iframe {
-    max-width: 100%;
+#video-container {
+    display: none;
+    position:relative;
 }
 .video-wrapper-project{
     padding: 0 0 6% 0;
@@ -1250,7 +1268,6 @@ padding-bottom: 40px;
     border:none;
     text-align:center;
 }
-
 #hdr-title{
     margin-bottom:40px;
 }
@@ -1295,7 +1312,7 @@ padding-bottom: 40px;
 
 .modal-body .project-descr{
     margin:0 0 24px;
-    
+
 }
 
 .modal-header .loader {
@@ -1449,7 +1466,7 @@ background-color: #34353a;
     .bl_form {
       margin: 0 0 40px;
     }
-    
+
     .bl_form input,
     .bl_form textarea{
       padding-top: 15px;
@@ -1491,7 +1508,7 @@ background-color: #34353a;
       color: #FFF;
 	  z-index:1;
     }
-	
+
 .no-placeholder .lb_label {
 	display:none;
 }
@@ -1532,7 +1549,7 @@ background-color: #34353a;
 
 /*----------------------
 -----Footer Styles------
-------------------------*/    
+------------------------*/
 
 #main-footer p{
     font-size:16px;
@@ -1720,9 +1737,9 @@ background-color: #34353a;
 
 /*----------------------
 -----Media Queries------
-------------------------*/    
+------------------------*/
 @media (max-width: 767px) {
-	
+
     .navbar {
         padding:0;
         margin: 0;
@@ -1740,30 +1757,30 @@ background-color: #34353a;
 		display:block;
         text-align:center;
 	}
-	
+
 	#main-nav .nav a:before {
 		display:none;
 	}
-	
+
 	#main-nav .navbar-nav #logo{
 		display:none;
 	}
 
 
     #main-nav .nav a{
-        color:inherit; 
+        color:inherit;
         transition:color .2s ease-out;
     }
 
 	#main-nav .nav .active a,
 	#main-nav .nav a:hover{
-        color:#36D9C3; 
+        color:#36D9C3;
     }
     /*THIS CAUSES THE REMOVAL OF ANY SLIDING UP / DOWN EFFECTS ON SCROLL IN MOBILE*/
     #main-nav .container {
         padding: 0;
         /*THIS IS MEANT TO STOP FLICKERING*/
-        -webkit-transform: translateZ(0); 
+        -webkit-transform: translateZ(0);
 
     }
     /*END*/
@@ -1780,7 +1797,7 @@ background-color: #34353a;
     #main-footer .text-right{
         text-align:center;
     }
-    
+
     .section-header h1{
         font-size:38px;
     }
