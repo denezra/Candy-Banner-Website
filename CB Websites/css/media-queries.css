@@ -1,0 +1,76 @@
+@media (max-width: 1200px) {
+#telephone{
+	display: none;
+}
+/*
+#telephone i{
+	float: right;
+	margin-right: 0px;
+	padding-right: 70px;
+}
+*/
+}
+
+
+@media (max-width: 767px) {
+
+
+
+/*When we split the tables into a single column we need a connector line to conncet them*/
+
+#services_table2 .list-group-item:nth-child(1) {
+    border-top: 1px solid #dcdcdc;
+    border-radius: 0;
+}
+
+#services_table2 .list-group-item:first-child {
+	margin-top: -20px;
+}
+
+
+
+
+
+
+}
+
+
+
+@media (max-width: 480px) {
+
+.jumbotron p.in{
+	/*font-size: 20px !important;*/
+    line-height: 33px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.jumbotron h1{
+    font-size: 40px !important;
+}
+
+/*SERVICES*/
+
+/*When we split the tables into a single column we need a connector line to conncet them*/
+
+#services_table2 .list-group-item:nth-child(1) {
+    border-top: 1px solid #dcdcdc;
+    border-radius: 0;
+}
+
+#services_table2 .list-group-item:first-child {
+	margin-top: -20px;
+}
+
+/*CONTACT*/
+
+/* .bl_form {
+      min-width: 100% !important;
+      max-width: 100% !important;
+      /*min-width:207px;
+      /*padding: 10px 15px;*/
+
+
+
+
+}

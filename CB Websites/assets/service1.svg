@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<g>
+	<rect x="68.081" y="7.445" fill="#B58A6E" width="26.044" height="105.712"/>
+	<rect x="87.613" y="7.445" opacity="0.4" fill="#DAA58F" width="6.511" height="105.712"/>
+	<g opacity="0.7">
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="12.527" x2="81.102" y2="12.527"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="20.489" x2="75.466" y2="20.489"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="28.452" x2="81.102" y2="28.452"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="36.414" x2="75.466" y2="36.414"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="44.376" x2="81.102" y2="44.376"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="52.338" x2="75.466" y2="52.338"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="60.301" x2="81.102" y2="60.301"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="68.263" x2="75.466" y2="68.263"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="76.225" x2="81.102" y2="76.225"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="84.187" x2="75.466" y2="84.187"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="92.15" x2="81.102" y2="92.15"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="108.074" x2="81.102" y2="108.074"/>
+		
+			<line fill="none" stroke="#F0CDC1" stroke-width="2.3275" stroke-miterlimit="10" x1="68.081" y1="100.112" x2="75.466" y2="100.112"/>
+	</g>
+</g>
+<g>
+	<path fill="#F1B8BA" d="M27.12,8.952c0.004-0.968,1.157-1.747,2.576-1.742L42.534,7.26c1.417,0.006,2.562,0.794,2.558,1.761
+		l-0.017,10.897c-0.006,0.967-1.157,1.745-2.575,1.739l-12.837-0.048c-1.419-0.006-2.567-0.794-2.562-1.761L27.12,8.952z"/>
+	
+		<rect x="30.899" y="26.192" transform="matrix(-1 -0.0039 0.0039 -1 76.3763 119.6346)" fill="#F9A956" width="14.81" height="67.103"/>
+	
+		<rect x="26.188" y="16.261" transform="matrix(-1 -0.0039 0.0039 -1 72.0709 42.5839)" fill="#B2B6B9" width="19.777" height="9.922"/>
+	<polygon fill="#86888C" points="26.165,22.434 45.962,22.508 45.964,20.012 26.19,19.939 	"/>
+	
+		<rect x="26.541" y="26.159" transform="matrix(-1 -0.0036 0.0036 -1 59.8389 119.5315)" fill="#E57926" width="6.971" height="67.107"/>
+	
+		<rect x="32.64" y="26.184" transform="matrix(-1 -0.0036 0.0036 -1 72.0327 119.6036)" fill="#F68B24" width="6.971" height="67.104"/>
+	<polyline fill="#E4CABD" points="45.58,93.324 36.012,114.565 26.413,93.253 	"/>
+	<polygon fill="#F4DFD6" points="36.88,93.409 36.012,114.565 45.58,93.324 	"/>
+	<g>
+		<defs>
+			
+				<rect id="SVGID_1_" x="27.208" y="106.71" transform="matrix(-1 -0.0038 0.0038 -1 72.286 225.812)" width="18.297" height="12.256"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<polyline clip-path="url(#SVGID_2_)" fill="#545556" points="45.727,93.325 36.058,114.877 26.556,93.251 		"/>
+	</g>
+</g>
+</svg>
