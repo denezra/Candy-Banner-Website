@@ -1219,7 +1219,7 @@ padding-bottom: 40px;
 /* Desktops and laptops ----------- */
 @media only screen and (min-width : 1200px) {
     .video-wrapper {
-        margin: -6% 0;
+        margin: -5% 0;
     }
 }
 .video-wrapper {
